@@ -1,4 +1,6 @@
 #TuesPechkin
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnaua%2FTuesPechkin.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnaua%2FTuesPechkin?ref=badge_shield)
+
 TuesPechkin is a .NET Wrapper for the [wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) library. 
 
 ## Things to know
@@ -154,3 +156,7 @@ License
 -------
 
 This work, "TuesPechkin", is a derivative of "Pechkin" by gmanny (Slava Kolobaev) used under the Creative Commons Attribution 3.0 license. This work is made available under the terms of the Creative Commons Attribution 3.0 license (viewable at http://creativecommons.org/licenses/by/3.0/) by tuespetre (Derek Gray.)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnaua%2FTuesPechkin.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnaua%2FTuesPechkin?ref=badge_large)
